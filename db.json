@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "prod1": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "prod2": [
+    {
+      "id": 2,
+      "title": "hello"
+    }
+  ]
 }
