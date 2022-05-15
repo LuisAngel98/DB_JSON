@@ -1,52 +1,134 @@
 {
-  "productos": [
+  "products": [
     {
-      "precio": 799,
       "id": 1,
-      "title": "IPhone 13",
-      "thumbnailUrl": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg"
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
     },
     {
-      "precio": 299,
       "id": 2,
-      "title": "Xiaomi Poco X3 Pro",
-      "thumbnailUrl": "https://latienda.pe/15729-large_default/xiaomi-poco-x3-pro.jpg"
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
     },
     {
-      "precio": 799,
       "id": 3,
-      "title": "OnePlus 9",
-      "thumbnailUrl": "https://s1.eestatic.com/2021/03/02/omicrono/hardware/562954387_174296713_1024x576.jpg"
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
     },
     {
-      "precio": 1399,
       "id": 4,
-      "title": "Samsung Galaxy S20",
-      "thumbnailUrl": "https://specs-tech.com/wp-content/uploads/2020/02/s20-600x600.jpg"
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
     },
     {
-      "precio": 799,
       "id": 5,
-      "title": "Huawei P40",
-      "thumbnailUrl": "https://www.notebookcheck.org/uploads/tx_nbc2/p40-silver.jpg"
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
     },
     {
-      "precio": 799,
-      "id": 5,
-      "title": "Huawei P40",
-      "thumbnailUrl": "https://www.notebookcheck.org/uploads/tx_nbc2/p40-silver.jpg"
+      "id": 6,
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
     },
     {
-      "precio": 799,
-      "id": 5,
-      "title": "Huawei P40",
-      "thumbnailUrl": "https://www.notebookcheck.org/uploads/tx_nbc2/p40-silver.jpg"
+      "id": 7,
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
     },
     {
-      "precio": 799,
-      "id": 5,
-      "title": "Huawei P40",
-      "thumbnailUrl": "https://www.notebookcheck.org/uploads/tx_nbc2/p40-silver.jpg"
+      "id": 8,
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
+    },
+    {
+      "id": 9,
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
+    },
+    {
+      "id": 10,
+      "title": "SAMSUNG GALAXY Z FLIP 3 NEGRO",
+      "price": 980,
+      "url": "https://www.romapy.com/50488-large_default/apple-iphone-13-pro--512gb-graphite---iphone-13-pro--512gb-graphite.jpg",
+      "features": {
+        "display": "6.7° Dynamic AMOLED 2X",
+        "SO": "Android 11",
+        "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
+        "main camera": "12 MP + 12MP",
+        "selfie camera": "10 MP"
+      }
     }
   ]
 }
