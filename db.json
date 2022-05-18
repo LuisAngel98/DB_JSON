@@ -12,7 +12,8 @@
         "processor": "Octa Core 2.84GHz, 2.4GHz, 1.8GHz",
         "main camera": "12MP + 12MP",
         "selfie camera": "10 MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
         "processor": "Octa-core 1x2.8 GHz X2 3x2.50 GHz 4x1.8 GHz",
         "main camera": "50MP + 10MP + 12MP",
         "selfie camera": "10 MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "processor": "Qualcomm Snapdragon 8 Gen1 GPU Adreno 730",
         "main camera": "50MP + 13MP + 5MP",
         "selfie camera": "20MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 4,
@@ -54,7 +57,8 @@
         "processor": "Octa-core 2x2.4GHz 6x2.0GHz",
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 4,
@@ -68,7 +72,8 @@
         "processor": "Octa-core 2x2.4GHz 6x2.0GHz",
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 4,
@@ -82,7 +87,8 @@
         "processor": "Octa-core 2x2.4GHz 6x2.0GHz",
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 4,
@@ -96,7 +102,8 @@
         "processor": "Octa-core 2x2.4GHz 6x2.0GHz",
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 4,
@@ -110,7 +117,8 @@
         "processor": "Octa-core 2x2.4GHz 6x2.0GHz",
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 4,
@@ -124,7 +132,8 @@
         "processor": "Octa-core 2x2.4GHz 6x2.0GHz",
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
-      }
+      },
+      "qty" : 1
     },
     {
       "id": 4,
@@ -138,7 +147,8 @@
         "processor": "Octa-core 2x2.4GHz 6x2.0GHz",
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
-      }
+      },
+      "qty" : 1
     }
   ]
 }
