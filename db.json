@@ -13,7 +13,7 @@
         "main camera": "12MP + 12MP",
         "selfie camera": "10 MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
         "main camera": "50MP + 10MP + 12MP",
         "selfie camera": "10 MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 3,
@@ -43,14 +43,14 @@
         "main camera": "50MP + 13MP + 5MP",
         "selfie camera": "20MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 4,
-      "title": "XIAOMI REDMI NOTE 11S 5G 128GB",
-      "price": 329,
-      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631864/Xiaomi-Redmi-Note-11s-negro-1_br5xs3.png",
-      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631862/Xiaomi-Redmi-Note-11s-negro-1-mini_lu98o5.png",
+      "title": "APPLE IPHONE SE 2022 5G 128GB MIDNIGHT",
+      "price": 1499,
+      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986396/Frontal-1_yxzjqp.png",
+      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986396/Frontal-1_yxzjqp.png",
       "features": {
         "display": "6.6° IPS LCD",
         "SO": "Android 11",
@@ -58,14 +58,14 @@
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 5,
-      "title": "XIAOMI REDMI NOTE 11S 5G 128GB",
-      "price": 329,
-      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631864/Xiaomi-Redmi-Note-11s-negro-1_br5xs3.png",
-      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631862/Xiaomi-Redmi-Note-11s-negro-1-mini_lu98o5.png",
+      "title": "APPLE iPhone 13 mini 128GB",
+      "price": 1999,
+      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986398/APPLE_IPHONE_13_MINI_128GB_AZUL_276x549_tw13fd.jpg",
+      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986398/APPLE_IPHONE_13_MINI_128GB_AZUL_276x549_tw13fd.jpg",
       "features": {
         "display": "6.6° IPS LCD",
         "SO": "Android 11",
@@ -73,14 +73,14 @@
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 6,
-      "title": "XIAOMI REDMI NOTE 11S 5G 128GB",
-      "price": 329,
-      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631864/Xiaomi-Redmi-Note-11s-negro-1_br5xs3.png",
-      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631862/Xiaomi-Redmi-Note-11s-negro-1-mini_lu98o5.png",
+      "title": "APPLE iPhone 12 64GB",
+      "price": 899,
+      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986402/APPLE_IPHONE_12_64GB_NEGRO_FRONTAL_276x549_t9vvam.jpg",
+      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986402/APPLE_IPHONE_12_64GB_NEGRO_FRONTAL_276x549_t9vvam.jpg",
       "features": {
         "display": "6.6° IPS LCD",
         "SO": "Android 11",
@@ -88,14 +88,14 @@
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 7,
-      "title": "XIAOMI REDMI NOTE 11S 5G 128GB",
-      "price": 329,
-      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631864/Xiaomi-Redmi-Note-11s-negro-1_br5xs3.png",
-      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631862/Xiaomi-Redmi-Note-11s-negro-1-mini_lu98o5.png",
+      "title": "XIAOMI REDMI NOTE 10S BLANCO",
+      "price": 419,
+      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986751/frontal_1_vfjtxb.png",
+      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986751/frontal_1_vfjtxb.png",
       "features": {
         "display": "6.6° IPS LCD",
         "SO": "Android 11",
@@ -103,14 +103,14 @@
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 8,
-      "title": "XIAOMI REDMI NOTE 11S 5G 128GB",
-      "price": 329,
-      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631864/Xiaomi-Redmi-Note-11s-negro-1_br5xs3.png",
-      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631862/Xiaomi-Redmi-Note-11s-negro-1-mini_lu98o5.png",
+      "title": "XIAOMI REDMI NOTE 10 5G GRAPHITE GREY",
+      "price": 749,
+      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986845/redmi-10_dmiljw.png",
+      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986845/redmi-10_dmiljw.png",
       "features": {
         "display": "6.6° IPS LCD",
         "SO": "Android 11",
@@ -118,14 +118,14 @@
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 9,
-      "title": "XIAOMI REDMI NOTE 11S 5G 128GB",
-      "price": 329,
-      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631864/Xiaomi-Redmi-Note-11s-negro-1_br5xs3.png",
-      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631862/Xiaomi-Redmi-Note-11s-negro-1-mini_lu98o5.png",
+      "title": "SAMSUNG GALAXY S22 ULTRA 5G 128GB GREEN",
+      "price": 1019,
+      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986935/SAMSUNG-GALAXY-S22-ULTRA-GREEN-1_vj2rjs.png",
+      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652986935/SAMSUNG-GALAXY-S22-ULTRA-GREEN-1_vj2rjs.png",
       "features": {
         "display": "6.6° IPS LCD",
         "SO": "Android 11",
@@ -133,14 +133,14 @@
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
       },
-      "qty" : 1
+      "qty": 1
     },
     {
       "id": 10,
-      "title": "XIAOMI REDMI NOTE 11S 5G 128GB",
-      "price": 329,
-      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631864/Xiaomi-Redmi-Note-11s-negro-1_br5xs3.png",
-      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652631862/Xiaomi-Redmi-Note-11s-negro-1-mini_lu98o5.png",
+      "title": "SAMSUNG GALAXY A23 NEGRO",
+      "price": 429,
+      "img": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652987038/Samsung-Galaxy-A23_-5_goswzl.png",
+      "img-min": "https://res.cloudinary.com/dsl8zromj/image/upload/v1652987038/Samsung-Galaxy-A23_-5_goswzl.png",
       "features": {
         "display": "6.6° IPS LCD",
         "SO": "Android 11",
@@ -148,7 +148,7 @@
         "main camera": "50MP + 8MP + 2MP",
         "selfie camera": "13MP"
       },
-      "qty" : 1
+      "qty": 1
     }
   ]
 }
